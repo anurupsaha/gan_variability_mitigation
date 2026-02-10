@@ -1,0 +1,10 @@
+# Python/PyTorch
+__pycache__/
+*.py[cod]
+
+# Datasets and Models
+data/
+*.pth
+
+# Generated Images
+*.png
